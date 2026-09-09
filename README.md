@@ -98,8 +98,7 @@ ammunition while it is still alive.
 
 ## What I wrote
 
-This game is built on a 2D scrolling engine that was provided to me. I want to be exact
-about the split.
+This game is built on a 2D scrolling engine that was provided to me. 
 
 **Mine.** The game itself.
 
@@ -123,9 +122,6 @@ about the split.
   entity types.
 - `StarterGame.java` is a single-level demo game. `AsteroidArena` extends it and overrides
   most of it.
-
-The one edit I made to the provided files was renaming my subclass. Nothing else in them
-changed.
 
 ## Attribution
 
